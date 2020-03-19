@@ -32,11 +32,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BasselTech CamCapture">
-      <HintPath>..\..\..\..\Desktop\Libs\BasselTech CamCapture.dll</HintPath>
+    <Reference Include="BasselTech CamCapture, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\BasselTech CamCapture.dll</HintPath>
     </Reference>
-    <Reference Include="MessagingToolkit.QRCode">
-      <HintPath>..\..\..\..\Desktop\Libs\MessagingToolkit.QRCode.dll</HintPath>
+    <Reference Include="MessagingToolkit.QRCode, Version=1.0.3541.23206, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MessagingToolkit.QRCode.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
